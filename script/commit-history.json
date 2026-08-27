@@ -19,12 +19,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "e5fcf3ab862c952a238eb695d67e3821ae979aea",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-08-27T13:53:02.000Z",
       "message": "feat: implementacion de numero divisibles entre 3",
-      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/e5fcf3ab862c952a238eb695d67e3821ae979aea"
     },
     "stats": {
       "total": 15,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-08-27T13:55:05.000Z",
+      "message": "feat: verificacion de la otra prueba de division entre 3",
+      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
