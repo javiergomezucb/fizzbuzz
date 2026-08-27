@@ -32,9 +32,47 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "31883eafbefdfb48bfef5601a1879e887aa53611",
     "commitName": "feat: implementacion inicial fizzbuzz",
     "commitTimestamp": 1787838212887,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1787838421405,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787838505504,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 2,
+    "numTotalTests": 4,
+    "timestamp": 1787838582417,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838589723,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementacion de numero divisibles entre 3",
+    "commitTimestamp": 1787838783203,
+    "testId": 1
   }
 ]
