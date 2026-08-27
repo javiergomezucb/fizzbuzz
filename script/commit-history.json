@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c590ecb5f75483819dd88ee4422d0196f9ab442f",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-08-27T13:55:05.000Z",
       "message": "feat: verificacion de la otra prueba de division entre 3",
-      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/c590ecb5f75483819dd88ee4422d0196f9ab442f"
     },
     "stats": {
       "total": 4,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-08-27T13:58:10.000Z",
+      "message": "feat: verificacion del numero 5",
+      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

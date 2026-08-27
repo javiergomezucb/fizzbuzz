@@ -84,9 +84,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c590ecb5f75483819dd88ee4422d0196f9ab442f",
     "commitName": "feat: verificacion de la otra prueba de division entre 3",
     "commitTimestamp": 1787838906754,
     "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1787838998873,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787839019024,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: verificacion del numero 5",
+    "commitTimestamp": 1787839091435,
+    "testId": 3
   }
 ]
