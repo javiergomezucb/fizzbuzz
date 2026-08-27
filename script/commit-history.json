@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-08-27T13:43:31.000Z",
+      "message": "feat: implementacion inicial fizzbuzz",
+      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 19,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 2,
+    "conclusion": "failure"
+  }
+]
