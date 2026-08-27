@@ -106,9 +106,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f8830382c403a0a38dc30a22fccbe711ae4ac38e",
     "commitName": "feat: verificacion del numero 5",
     "commitTimestamp": 1787839091435,
     "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1787839187685,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787839264845,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: verificacion del numero divisible entre 5",
+    "commitTimestamp": 1787839357103,
+    "testId": 4
   }
 ]

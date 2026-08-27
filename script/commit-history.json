@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f8830382c403a0a38dc30a22fccbe711ae4ac38e",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-08-27T13:58:10.000Z",
       "message": "feat: verificacion del numero 5",
-      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/f8830382c403a0a38dc30a22fccbe711ae4ac38e"
     },
     "stats": {
       "total": 9,
@@ -74,5 +74,24 @@
     "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-08-27T14:02:35.000Z",
+      "message": "feat: verificacion del numero divisible entre 5",
+      "url": "https://github.com/javiergomezucb/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 8,
+      "deletions": 2,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
